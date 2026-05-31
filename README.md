@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final-year AI & Data Science undergraduate (CGPA: 8.00) with hands-on experience building and deploying AI systems — from LLM-powered pipelines to production ML applications. Currently interning at Knovos, an AI-driven eDiscovery company, where I work on document intelligence, RAG pipelines, and vector search. Independently built an LSTM-based EUR/USD forecasting engine and a full-stack customer analytics platform processing 541,909 transactions with 80–85% churn prediction accuracy. Fluent across the full AI engineering stack: LLM APIs, text embeddings, retrieval-augmented generation, and model deployment with Python, TensorFlow, and Flask.
+Final-year AI & Data Science undergraduate (CGPA: 8.17) with hands-on experience building and deploying AI systems — from LLM-powered pipelines to production ML applications. Currently interning at Knovos, an AI-driven eDiscovery company, where I work on document intelligence, RAG pipelines, and vector search. Independently built an LSTM-based EUR/USD forecasting engine and a full-stack customer analytics platform processing 541,909 transactions with 80–85% churn prediction accuracy. Fluent across the full AI engineering stack: LLM APIs, text embeddings, retrieval-augmented generation, and model deployment with Python, TensorFlow, and Flask.
 
 
 ## 🌐 Socials:
